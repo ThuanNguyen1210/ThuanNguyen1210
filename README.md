@@ -4,7 +4,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Thuan Nguyen!
 
 
-I'm a final year Computer Science student at Ho Chi Minh City University of Technology 💡. I'm currently learning on Web Development 🚀
+I'm currently learning on Web Development 🚀
 
 
 #### 📫 How to reach me: 
