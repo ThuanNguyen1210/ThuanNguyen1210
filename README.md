@@ -8,7 +8,7 @@ I'm currently learning on Web Development 🚀
 
 
 #### 📫 How to reach me: 
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/thuan-nguyen-82a66119a/)  &nbsp; 
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nnthuan)  &nbsp; 
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ngocthuan1210/)  &nbsp; 
   <a href="mailto:thuannguyen121000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   <p align="left">
